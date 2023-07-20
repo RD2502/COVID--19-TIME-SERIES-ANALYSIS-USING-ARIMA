@@ -1,2 +1,1 @@
-# Blood-Bank-app
-This is a blood bank app built with the help of MERN stack 
+The project is all about COVID 19 time series analysis using ARIMA model.The data was collected from Kaggle.The analysis was done based on the day,month and year.Stationarity test was done using AD-fuller test and the seasonal components were removed.The the Arima model was used and three types of datasets were used which are recovered cases,confirmed cases and death cases along with their mean squared error percentage being calculated.
